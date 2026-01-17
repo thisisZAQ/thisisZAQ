@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+## 💫 About Me:
 Economics & Data Analytics student interested in data analysis, econometrics, and NLP applied to real-world economic problems.<br>Working primarily with Python, SQL, and R to build research-driven, reproducible projects.
 
 
